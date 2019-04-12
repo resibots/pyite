@@ -2,11 +2,33 @@
 
 This module is a python implementation of  [IT&E](https://github.com/resibots/ite_v2).
 
+IT&E code for developing hexapod experiments similar to [Cully et al. (2015), Nature](https://github.com/resibots/cully_2015_nature). This code is not replicating the exact experiments of the Nature paper, but can be seen as a more modern implementation of the underlying algorithm.
+
+#### Citing this code
+
+If you use our code for a scientific paper, please cite:
+
+Antoine Cully, Jeff Clune, Danesh Tarapore, and Jean-Baptiste Mouret. **"Robots that can adapt like animals."** *Nature 521, no. 7553 (2015): 503-507*.
+
+In BibTex:
+
+    @article{cully_robots_2015,
+        title = {Robots that can adapt like animals},
+        volume = {521},
+        pages = {503--507},
+        number = {7553},
+        journal = {Nature},
+        author = {Cully, Antoine and Clune, Jeff and Tarapore, Danesh and Mouret, Jean-Baptiste},
+        year = {2015}
+    }
+
+
+
 Here are some IT&E use cases. You can click on the GIFs to watch the full videos.
 
-[![](minitaur.gif)](https://www.youtube.com/watch?v=v90CWJ_HsnM)
+[![](miscs/minitaur.gif)](https://www.youtube.com/watch?v=v90CWJ_HsnM)
 
-[![](hexapod.gif)](https://www.youtube.com/watch?v=T-c17RKh3uE&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=2&t=0s)
+[![](miscs/hexapod.gif)](https://www.youtube.com/watch?v=T-c17RKh3uE&list=PLc7kzd2NKtSdd4CjMjOJH1rmmVyf0EmBW&index=2&t=0s)
 
 
 ## How to install ?
