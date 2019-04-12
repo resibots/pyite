@@ -1,0 +1,6 @@
+[submodule "pybullet_minitaur_sim"]
+	path = pybullet_minitaur_sim
+	url = https://github.com/resibots/pybullet_minitaur_sim.git
+[submodule "pyhexapod"]
+	path = pyhexapod
+	url = https://github.com/resibots/pyhexapod.git
