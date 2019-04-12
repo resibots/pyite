@@ -50,9 +50,9 @@ You can disable the gui by modifying the params at the end of ite.py
 
 #### For the minitaur
 
-In order to run it with the real minitaur robot please refer to this : [README.md](https://gitlab.inria.fr/resibots/minitaur_framework)
+In order to run it with the real minitaur robot please refer to this : [README.md](https://github.com/resibots/minitaur_framework.git)
 
-Note that ite_maps.py has been configured to test 0 different maps from 10 different experiments
+Note that ite_maps.py has been configured to test 10 different maps from 10 different experiments
 #### For the hexapod :
 
 In order to run it with the real pexod robot, you will need to use the C++ API : [IT&E](https://github.com/resibots/ite_v2)
